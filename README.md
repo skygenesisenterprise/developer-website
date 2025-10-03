@@ -47,7 +47,7 @@ Before you begin, ensure you have the following installed:
 2. Navigate to the project directory:
 
    ```bash
-   cd sge-developer-website
+   cd developer-website
    ```
 
 3. Install the dependencies:
