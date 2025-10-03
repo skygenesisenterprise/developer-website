@@ -81,9 +81,9 @@ Please ensure your code adheres to our coding standards and includes appropriate
 
 If you have any questions or need further assistance, feel free to reach out to us:
 
-- Email: support@sge.com
-- Twitter: [@SGE](https://twitter.com/SGE)
-- Community Forum: [SGE Community](https://community.sge.com)
+- Email: developer@skygenesisenterprise.com
+- Twitter: [Sky Genesis Enterprise](https://twitter.com/SkyGEnterprise)
+- Community Forum: [Sky Genesis Enterprise](https://skygenesisenterprise.com/discord)
 
 Thank you for your interest in the SGE Developer Website! We hope you find it useful and look forward to seeing the amazing games you'll create with SGE.
 
